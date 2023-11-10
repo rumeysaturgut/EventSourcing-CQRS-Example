@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\bin\Debug\net6.0\EventSourcingExample.exe
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\bin\Debug\net6.0\EventSourcingExample.deps.json
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\bin\Debug\net6.0\EventSourcingExample.runtimeconfig.json
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\bin\Debug\net6.0\EventSourcingExample.dll
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\bin\Debug\net6.0\EventSourcingExample.pdb
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.AssemblyInfo.cs
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.dll
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\refint\EventSourcingExample.dll
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.pdb
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\EventSourcingExample.genruntimeconfig.cache
+C:\Users\user\Desktop\EventSourcingExample\EventSourcingExample\obj\Debug\net6.0\ref\EventSourcingExample.dll
